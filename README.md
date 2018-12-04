@@ -24,5 +24,5 @@ seguenti elencate per ordine decrescente di gravità:
 • cliente in recupero,
 • cliente regolare.
 Il vostro obiettivo è quello di utilizzare metodi statistici che consentano
-di predire il comportamento dei clienti in funzione dell’opportuno sottoinsie-
-me, proprio o improprio, delle variabili rilevate.
+di predire il comportamento dei clienti in funzione dell’opportuno sottoinsieme,
+proprio o improprio, delle variabili rilevate.
