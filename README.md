@@ -17,12 +17,14 @@ ziamento approvate. Ogni record del dataset contiene alcune caratteristiche rile
 momento della richiesta. La Figura riportata in Appendice 1 descrive 30 variabili rag-
 gruppate in socio-demografiche, equipaggiamento del cliente, storico del cliente e com-
 portamento del cliente. in Appendice 2 è riportata la codifica utilizzata per le variabili
-qualitative. La variabile target “comportamento dei clienti denotata con “ClientSta-
-tus”, è osservata dopo 24 mesi dalla concessione del finanziamento, e assume le modalità
-seguenti elencate per ordine decrescente di gravità:
+qualitative. La variabile target “comportamento dei clienti denotata con “ClientStatus”, è osservata dopo 24 mesi dalla concessione del finanziamento, e assume le modalità seguenti elencate per ordine decrescente di gravità:
+
 • cliente con contenzioso,
+
 • cliente in recupero,
+
 • cliente regolare.
+
 Il vostro obiettivo è quello di utilizzare metodi statistici che consentano
 di predire il comportamento dei clienti in funzione dell’opportuno sottoinsieme,
 proprio o improprio, delle variabili rilevate.
